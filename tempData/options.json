@@ -1,0 +1,15 @@
+{"type": "t-shirt", "material": "light", "color": "black", "price": 16.95 }
+{"type": "t-shirt", "material": "light", "color": "white", "price": 16.95 }
+{"type": "t-shirt", "material": "light", "color": "green", "price": 18.95 }
+{"type": "t-shirt", "material": "light", "color": "red", "price": 18.95 }
+{"type": "t-shirt", "material": "heavy", "color": "black", "price": 19.95 }
+{"type": "t-shirt", "material": "heavy", "color": "white", "price": 19.95 }
+{"type": "t-shirt", "material": "heavy", "color": "green", "price": 21.95 }
+{"type": "t-shirt", "material": "heavy", "color": "red", "price": 21.95 }
+{"type": "sweater", "material": "cotton", "color": "black", "price": 28.95 }
+{"type": "sweater", "material": "cotton", "color": "white", "price": 28.95 }
+{"type": "sweater", "material": "cotton", "color": "pink", "price": 32.95 }
+{"type": "sweater", "material": "cotton", "color": "yellow", "price": 32.95 }
+{"type": "text customization", "material": "text", "color": "black", "price": 0 }
+{"type": "text customization", "material": "text", "color": "white", "price": 0 }
+{"type": "text customization", "material": "text", "color": "color", "price": 3 }
